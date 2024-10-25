@@ -17,7 +17,7 @@ El objetivo de este proyecto es profundizar en el entendimiento de esta máquina
 
 ## Tecnologías
 
-**Desarrollo:** Java
+**Desarrollo:** Java, ChatGPT, WhatsApp
 
 **Control de versiones:** Git, GitHub
 
